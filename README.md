@@ -7,7 +7,9 @@ Labeled images in two folders, fatigue and active.
 
 # Documentation
 1. Import the dataset to ipynb.
-2. Preprocessing the data. (In our case the data is already clean)
-3. Try to build the model with some layers.
-4. Compile the model.
-5. Testing the model with some pictures.
+   <img width="425" alt="image" src="https://github.com/DriverFit/Machine_Learning/assets/103325979/964d6c45-c03f-4a13-82a0-a3d8f9ec04d1">
+
+3. Preprocessing the data. (In our case the data is already clean)
+4. Try to build the model with some layers.
+5. Compile the model.
+6. Testing the model with some pictures.
