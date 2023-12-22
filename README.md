@@ -6,10 +6,20 @@ Machine learning takes part in building the model for classifying images. We bui
 Labeled images in two folders, fatigue and active.
 
 # Documentation
-1. Import the dataset to ipynb.
+1. Import the dataset to ipynb. <br>
    <img width="425" alt="image" src="https://github.com/DriverFit/Machine_Learning/assets/103325979/964d6c45-c03f-4a13-82a0-a3d8f9ec04d1">
 
-3. Preprocessing the data. (In our case the data is already clean)
-4. Try to build the model with some layers.
-5. Compile the model.
-6. Testing the model with some pictures.
+3. Preprocessing the data. (In our case the data is already clean) <br>
+<img width="512" alt="image" src="https://github.com/DriverFit/Machine_Learning/assets/103325979/41ad1783-9edf-4171-9763-b45d90435cbc">
+
+
+4. Try to build the model with some layers. <br>
+<img width="688" alt="image" src="https://github.com/DriverFit/Machine_Learning/assets/103325979/765d1980-1ce5-4d12-9335-2da13f3116fd">
+
+   
+6. Compile the model. <br>
+   <img width="515" alt="image" src="https://github.com/DriverFit/Machine_Learning/assets/103325979/676d92c2-0e43-4980-a86f-fad0ff05a425">
+
+8. Testing the model with some pictures. <br>
+<img width="491" alt="image" src="https://github.com/DriverFit/Machine_Learning/assets/103325979/a0a93822-0a76-4ca4-bd0b-b8c25c6021c2">
+
